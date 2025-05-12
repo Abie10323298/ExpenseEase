@@ -74,6 +74,4 @@ Contributions are welcome! If you'd like to add new features or fix issues:
 - Kwena (Database Administrator)
 - Dumisani (Software Developer)
 
-## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
